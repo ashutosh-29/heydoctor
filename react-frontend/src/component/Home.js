@@ -11,7 +11,7 @@ const NewsCOVID=()=>{
     url: 'https://coronavirus-smartable.p.rapidapi.com/news/v1/IN/',
     headers: {
       'X-RapidAPI-Host': 'coronavirus-smartable.p.rapidapi.com',
-      'X-RapidAPI-Key': '4acc56807cmshf6dc415c154158bp14dd13jsnc3118082624f'
+      'X-RapidAPI-Key': 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
     }
   };
   useEffect(function(){

@@ -1,0 +1,34 @@
+{
+    "data":[
+        {
+            "name":"Ashutosh",
+            "experience":"4",
+            "expertIn":["Fungal infection","Hepatitis C","Hepatitis E", "Alcoholic hepatitis", "Tuberculosis", "Common Cold"]
+        },
+        {
+            "name":"Aniket",
+            "experience":"6",
+            "expertIn":["Pneumonia","Dimorphic hemmorhoids(piles)","Heart attack","Varicose veins","Hypothyroidism","Hyperthyroidism","Impetigo","Common Cold"]
+        },
+        {
+            "name":"Aditiya",
+            "experience":"5",
+            "expertIn":["Hypoglycemia","Osteoarthristis","Arthritis", "(vertigo) Paroymsal  Positional Vertigo", "Acne", "Urinary tract infection","Typhoid","Common Cold"]
+        },
+        {
+            "name":"Abhishake",
+            "experience":"3",
+            "expertIn":["Psoriasis","Hepatitis D","Hepatitis B", "Allergy", "hepatitis A", "GERD", "Dengue", "Common Cold"]
+        },
+        {
+            "name":"Pankhil",
+            "experience":"6",
+            "expertIn":["Chronic cholestasis","Drug Reaction","Peptic ulcer diseae", "AIDS", "Diabetes", "Gastroenteritis","Chicken pox","Common Cold"]
+        },
+        {
+            "name":"AnangPal",
+            "experience":"1",
+            "expertIn":["Bronchial Asthma","Hypertension","Migraine", "Cervical spondylosis", "Paralysis (brain hemorrhage)", "Jaundice","Malaria","Common Cold"]
+        }
+    ]
+}
